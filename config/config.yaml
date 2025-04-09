@@ -1,0 +1,8 @@
+/logger_1:              # 노드 이름
+    ros__parameters:    # ROS2 파라미터 지정
+
+        period: 2.0     # period
+
+        is_debug: False # is_debug
+
+        
